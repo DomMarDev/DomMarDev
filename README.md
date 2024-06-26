@@ -6,8 +6,8 @@
 I love science, specifically biology and microbiology.
 But nowadays what I like the most is to learn programming tools that I can implement in my experiments.
 
-Si quieres contactar conmigo, te sugiero:
-- 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/domingo-marchan-del-pino-086b26235/)
+If you want to contact me, I suggest you:
+- 🎓 My [Linkedin](https://www.linkedin.com/in/domingo-marchan-del-pino-086b26235/) profile
   
 ## Technologies that I am learning
 
